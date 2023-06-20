@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+BerkKural+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=BerkKural&color=brightgreen" alt="watching_count" />
+ </p>
+
 <p align="center" style="height: 180px;">
     <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=BerkKural&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=BerkKural&theme=radical&show_icons=true&border=e4e2e2" />
