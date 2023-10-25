@@ -24,3 +24,16 @@
     <img src="https://profile-counter.glitch.me/BerkKural/count.svg"/>
   </div> 
 </p>
+
+<h3>
+🏆 GitHub Trophies
+</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=BerkKural&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+
+<h3>
+GitHub Stats
+</h3>
+<a href="https://github.com/BerkKural">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkKural&layout=compact&theme=dark&show_icons=true" width="450">
+</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BerkKural&theme=dark" width="450">
